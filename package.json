@@ -2,14 +2,21 @@
     "name": "pm3",
     "version": "1.0.0",
     "description": "A user-friendly CLI wrapper for PM2",
-    "keywords": ["pm2", "process-manager", "cli", "wrapper"],
+    "keywords": [
+        "pm2",
+        "process-manager",
+        "cli",
+        "wrapper"
+    ],
     "license": "ISC",
     "author": "",
     "type": "module",
     "bin": {
-        "pm3": "./dist/index.js"
+        "pm3": "./dist/index.mjs"
     },
-    "files": ["dist"],
+    "files": [
+        "dist"
+    ],
     "scripts": {
         "test": "vp test run",
         "test:watch": "vp test",
