@@ -1,5 +1,5 @@
 {
-    "name": "pm3",
+    "name": "@akrc/pm3",
     "version": "1.0.0",
     "description": "A user-friendly CLI wrapper for PM2",
     "keywords": [
