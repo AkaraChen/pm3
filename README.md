@@ -8,6 +8,12 @@
 
 ---
 
+## Installation
+
+```bash
+bun add -g @akrc/pm3
+```
+
 ## Why pm3?
 
 PM2 is powerful—but its command-line interface feels like it was designed for robots. Every operation requires memorizing obscure flags, chaining arguments, and decoding cryptic output. For developers who just want to run their apps reliably, the learning curve is unnecessarily steep.
