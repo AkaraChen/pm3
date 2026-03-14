@@ -16,6 +16,7 @@
     },
     "devDependencies": {
         "@akrc/tsconfig": "2.0.0",
+        "pm2": "^6.0.14",
         "typescript": "5.9.3",
         "vite": "npm:@voidzero-dev/vite-plus-core@latest",
         "vite-plus": "latest",
